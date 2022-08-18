@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: f7fd8dfbf563849cfa82891d4a667f56
+timeCreated: 1463929857
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Above_windows
+    100002: Brick_side_pieces
+    100004: Ceiling
+    100006: Centeral_vertical_supports
+    100008: Cross_beams
+    100010: Cubes
+    100012: Floor
+    100014: Front-back_top_piece
+    100016: Front_and_back_walls
+    100018: Long_ceiling_braces
+    100020: Roof
+    100022: //RootNode
+    100024: Window_struts
+    100026: Windows
+    100028: Cube_001
+    100030: Cube
+    100032: Cubes_001
+    100034: Information_stand
+    100036: Scaled_cube
+    100038: Windows_Left
+    100040: Windows_Right
+    400000: Above_windows
+    400002: Brick_side_pieces
+    400004: Ceiling
+    400006: Centeral_vertical_supports
+    400008: Cross_beams
+    400010: Cubes
+    400012: Floor
+    400014: Front-back_top_piece
+    400016: Front_and_back_walls
+    400018: Long_ceiling_braces
+    400020: Roof
+    400022: //RootNode
+    400024: Window_struts
+    400026: Windows
+    400028: Cube_001
+    400030: Cube
+    400032: Cubes_001
+    400034: Information_stand
+    400036: Scaled_cube
+    400038: Windows_Left
+    400040: Windows_Right
+    2300000: Above_windows
+    2300002: Brick_side_pieces
+    2300004: Ceiling
+    2300006: Centeral_vertical_supports
+    2300008: Cross_beams
+    2300010: Cubes
+    2300012: Floor
+    2300014: Front-back_top_piece
+    2300016: Front_and_back_walls
+    2300018: Long_ceiling_braces
+    2300020: Roof
+    2300022: Window_struts
+    2300024: Windows
+    2300026: Cube_001
+    2300028: Cube
+    2300030: Cubes_001
+    2300032: Information_stand
+    2300034: Scaled_cube
+    2300036: Windows_Left
+    2300038: Windows_Right
+    3300000: Above_windows
+    3300002: Brick_side_pieces
+    3300004: Ceiling
+    3300006: Centeral_vertical_supports
+    3300008: Cross_beams
+    3300010: Cubes
+    3300012: Floor
+    3300014: Front-back_top_piece
+    3300016: Front_and_back_walls
+    3300018: Long_ceiling_braces
+    3300020: Roof
+    3300022: Window_struts
+    3300024: Windows
+    3300026: Cube_001
+    3300028: Cube
+    3300030: Cubes_001
+    3300032: Information_stand
+    3300034: Scaled_cube
+    3300036: Windows_Left
+    3300038: Windows_Right
+    4300000: Floor
+    4300002: Roof
+    4300004: Ceiling
+    4300006: Front_and_back_walls
+    4300008: Brick_side_pieces
+    4300010: Front-back_top_piece
+    4300012: Windows
+    4300014: Cross_beams
+    4300016: Centeral_vertical_supports
+    4300018: Above_windows
+    4300020: Long_ceiling_braces
+    4300022: Window_struts
+    4300024: Cubes
+    4300026: Cube_001
+    4300028: Cube
+    4300030: Cubes_001
+    4300032: Scaled_cube
+    4300034: Information_stand
+    4300036: Windows_Right
+    4300038: Windows_Left
+    6400000: Above_windows
+    6400002: Brick_side_pieces
+    6400004: Ceiling
+    6400006: Centeral_vertical_supports
+    6400008: Cross_beams
+    6400010: Cubes
+    6400012: Floor
+    6400014: Front-back_top_piece
+    6400016: Front_and_back_walls
+    6400018: Long_ceiling_braces
+    6400020: Roof
+    6400022: Window_struts
+    6400024: Windows
+    6400026: Cube_001
+    6400028: Cube
+    6400030: Cubes_001
+    6400032: Information_stand
+    6400034: Scaled_cube
+    6400036: Windows_Left
+    6400038: Windows_Right
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
