@@ -5,6 +5,7 @@ using System.Collections;
 public class LoadWebcam : MonoBehaviour
 {
 
+    public GameObject informationSheet;
     private WebCamTexture webcamTexture;
 
     // Use this for initialization
@@ -27,6 +28,7 @@ public class LoadWebcam : MonoBehaviour
               Renderer renderer = GetComponent<Renderer>();
               renderer.material.mainTexture = webcamTexture;
               webcamTexture.Play();
+              informationSheet.SetActive(true);
           }
           else
           {

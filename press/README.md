@@ -62,24 +62,22 @@ And here we are, a whole new game.
 
 ### [Trailer](https://youtu.be/)
 
-[![v r <sup>2</sup> trailer](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![v r <sup>2</sup> trailer](https://img.youtube.com/vi/f0AX2MOO6BI/0.jpg)](https://www.youtube.com/watch?v=f0AX2MOO6BI)
 
-[Trailer on YouTube](https://youtu.be/)
+[Trailer on YouTube](hthttps://youtu.be/f0AX2MOO6BI)
 
 ## Images
 ![](images/01-title.png)
 
-![](images/02-info.png)
+![](images/02-overview.png)
 
-![](images/03-room.png)
+![](images/03-webcam-plus.png)
 
 ![](images/04-horse.png)
 
-![](images/05-image.png)
+![](images/05-button.png)
 
-![](images/06-landscape-and-button.png)
-
-![](images/07-trailer.png)
+![](images/06-information.png)
 
 
 ## Additional Links
