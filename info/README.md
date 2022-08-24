@@ -14,6 +14,8 @@
 * Look at the [Code Repository](https://github.com/pippinbarr/v-r-to-the-2) for source code etc.
 
 ## Press
+* CJ Wheeler. [Pippin Barr's hidden game objects exhibition returns in v r ^2](https://www.rockpapershotgun.com/pippin-barrs-hidden-game-objects-exhibition-returns-in-v-r-2). 24 August 2022.
+
 See the [Press Kit](../press/) for press information
 
 ## License
